@@ -5,14 +5,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(253, 253, 253);
+    border-bottom: solid 2px rgb(226, 103, 103);
     padding: 20px;
     font-size: 32px;
-    color: rgb(223, 233, 247);
+    color: rgb(66, 116, 187);
 }
 
 section {
-	background: rgb(208, 197, 219);
+	background: rgb(145, 102, 189);
 	padding-bottom: 80px;
 	padding-top: 80px;
 	display: flex;
