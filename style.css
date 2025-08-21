@@ -13,8 +13,8 @@ header {
 
 section {
 	background:wheat
-	padding-bottom:80px;
-	padding-top: 80px;
+	padding-bottom:100px;
+	padding-top: 90px;
 	display: flex;
 	justify-content: center;
 }
