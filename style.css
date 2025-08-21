@@ -12,8 +12,8 @@ header {
 }
 
 section {
-	background: rgba(255, 255, 255, 0.322);
-	padding-bottom: 80px;
+	background:wheat
+	padding-bottom:80px;
 	padding-top: 80px;
 	display: flex;
 	justify-content: center;
